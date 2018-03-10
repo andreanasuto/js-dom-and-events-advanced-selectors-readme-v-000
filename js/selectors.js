@@ -4,5 +4,5 @@ function paragraphSelector() {
 }
 
 function ninjaBabySelector() {
-
+  return $('#baby-ninja')
 }
